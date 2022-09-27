@@ -1,0 +1,751 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Slick Slider and Image Carousel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-16 11:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:31
+msgid " In lite version only 5+ design."
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:39
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:47
+msgid " In lite version only one design."
+msgstr ""
+
+#: includes/admin/settings/premium.php:216
+msgid "1 Year"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:176
+msgid "100% Multi language"
+msgstr ""
+
+#: includes/admin/settings/premium.php:95
+msgid "2 (Slider, Carousel)"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:23
+msgid ""
+"3 ( Slider, Carousel, Variable width ). In lite version only Slider and "
+"Carousel layout."
+msgstr ""
+
+#: includes/admin/settings/premium.php:96
+msgid "3 (Slider, Carousel, Variable width )"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:163
+msgid "30 Image Carousel and Center Slider Designs"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:162
+msgid "30 Image Slider Designs"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:164
+msgid "33 Slider Variable width Designs"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:147
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:161
+msgid "90+ Predefined stunning designs"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:63
+msgid "Add a custom name for read more link"
+msgstr ""
+
+#: includes/admin/settings/premium.php:164
+msgid "Add custom name for read more link"
+msgstr ""
+
+#: includes/admin/settings/premium.php:99
+msgid "Add extra power to the shortcode"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:75
+msgid "Add New Category"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:24
+msgid "Add New slide"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:36
+msgctxt "admin menu"
+msgid "Slick Slider"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:70
+msgid "All Category"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:79
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/settings/premium.php:114
+msgid "Arrange your desired slides with your desired order and display"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:87
+msgid "Arrange your desired slides with your desired order and display."
+msgstr ""
+
+#: includes/admin/settings/premium.php:169
+msgid "Arrows design"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:36
+msgid "Arrows design "
+msgstr ""
+
+#: includes/admin/settings/premium.php:209
+msgid "Automatic Update"
+msgstr ""
+
+#: includes/admin/settings/premium.php:139
+msgid "Bevear Builder Support"
+msgstr ""
+
+#: includes/admin/settings/premium.php:73
+#: includes/admin/settings/premium.php:84
+msgid "Buy Now"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:93
+msgid "Check Documentation"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:101
+msgid "Check Free Demo"
+msgstr ""
+
+#: includes/admin/settings/premium.php:59
+msgid "Compare \"WP Slick Slider and Image Carousel\" Free VS Pro"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:172
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/admin/settings/premium.php:164
+msgid "Custom Read More link Text"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:60
+msgid "Custom Read More link Text "
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:98
+msgid "Demo"
+msgstr ""
+
+#: includes/wpsisac-function.php:89 includes/wpsisac-function.php:107
+msgid "Design 1"
+msgstr ""
+
+#: includes/wpsisac-function.php:90
+msgid "Design 2"
+msgstr ""
+
+#: includes/wpsisac-function.php:91
+msgid "Design 3"
+msgstr ""
+
+#: includes/wpsisac-function.php:92
+msgid "Design 4"
+msgstr ""
+
+#: includes/wpsisac-function.php:93
+msgid "Design 5"
+msgstr ""
+
+#: includes/admin/settings/premium.php:89
+msgid "Designs"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:28
+msgid "Designs "
+msgstr ""
+
+#: includes/admin/settings/premium.php:89
+msgid "Designs that make your website better"
+msgstr ""
+
+#: includes/admin/settings/premium.php:179
+msgid "Display only the slides with particular category"
+msgstr ""
+
+#: includes/admin/settings/premium.php:194
+msgid "Display slides according to date, title and etc"
+msgstr ""
+
+#: includes/admin/settings/premium.php:179
+msgid "Display Slides for Particular Categories"
+msgstr ""
+
+#: includes/admin/settings/premium.php:149
+msgid "Divi Page Builder Native Support"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:169
+msgid ""
+"Divi Page Builder Native Support.<span class=\"wpos-new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:103
+msgid ""
+"Do not display the slider post & Do not display the slider category for "
+"particular categories."
+msgstr ""
+
+#: includes/admin/settings/premium.php:189
+msgid "Do not display the slides for particular categories"
+msgstr ""
+
+#: includes/admin/settings/premium.php:184
+msgid "Do not display the slides you want"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:90
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/settings/premium.php:174
+msgid "Dots Design"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:44
+msgid "Dots Design "
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:165
+msgid "Drag & Drop order change"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:84
+msgid "Drag & Drop Slide Order Change "
+msgstr ""
+
+#: includes/admin/settings/premium.php:114
+msgid "Drag &amp; Drop Slide Order Change"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easy to add and display wp slick image slider and carousel. Also added "
+"Gutenberg block support."
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:73
+msgid "Edit Category"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:25
+msgid "Edit Slick Slider"
+msgstr ""
+
+#: includes/admin/settings/premium.php:134
+msgid "Elementor Page Builder Support"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:168
+msgid ""
+"Elementor, Bevear and SiteOrigin Page Builder Support. <span class=\"wpos-"
+"new-feature\">New</span>"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:147
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-metabox.php:27
+msgid "Enter read more link. eg. "
+msgstr ""
+
+#: includes/admin/supports/gutenberg-block.php:233
+msgid "Essential Plugin Blocks"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:100
+msgid "Exclude Slider Post and Exclude Some Categories "
+msgstr ""
+
+#: includes/admin/settings/premium.php:189
+msgid "Exclude Some Categories"
+msgstr ""
+
+#: includes/admin/settings/premium.php:184
+msgid "Exclude Some Slides"
+msgstr ""
+
+#: includes/admin/settings/premium.php:68
+msgid "Free"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:175
+msgid "Fully responsive"
+msgstr ""
+
+#: includes/admin/settings/premium.php:154
+msgid "Fusion Page Builder (Avada) native support"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:170
+msgid ""
+"Fusion Page Builder (Avada) native support.<span class=\"wpos-new-feature\">"
+"New</span>"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:178
+msgid "Gain access to"
+msgstr ""
+
+#: includes/admin/settings/premium.php:209
+msgid "Get automatic  plugin updates"
+msgstr ""
+
+#: includes/admin/settings/premium.php:214
+msgid "Get support for plugin"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:53
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:179
+msgid "Grab Slick Slider Now"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:166
+#: includes/admin/settings/premium.php:129
+msgid "Gutenberg Block Supports"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:95
+msgid ""
+"Gutenberg Block, Elementor, Bevear Builder, SiteOrigin, Divi, Visual "
+"Composer and Fusion Page Builder Support"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:114
+msgid "Gutenberg Support"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:143
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:122
+msgid "How it Work"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:52
+#: includes/admin/wpsisac-how-it-work.php:35
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:45
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:52
+msgid "How it works, our plugins and offers"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:67
+msgid "How Shortcode Works"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid ""
+"https://www.essentialplugin.com/wordpress-plugins/wp-slick-slider-and-image-"
+"carousel/"
+msgstr ""
+
+#: includes/admin/settings/premium.php:124
+msgid "Infinite scroll control"
+msgstr ""
+
+#: wp-slick-image-slider.php:197
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:20
+msgid "Layouts "
+msgstr ""
+
+#: includes/admin/settings/premium.php:210
+#: includes/admin/settings/premium.php:211
+msgid "Lifetime"
+msgstr ""
+
+#: includes/admin/settings/premium.php:215
+msgid "Limited"
+msgstr ""
+
+#: includes/admin/settings/premium.php:124
+msgid "Loop Control"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:129
+msgid "More Premium - Settings"
+msgstr ""
+
+#: includes/admin/settings/premium.php:199
+msgid "Multiple Slider Parameters"
+msgstr ""
+
+#: includes/admin/settings/premium.php:119
+msgid "Navigation Support"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:52
+msgid "Navigation Support "
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:76
+msgid "New Category Name"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:26
+msgid "New Slick Slider"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:29
+msgid "No Slick Slider Items found"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:30
+msgid "No Slick Slider Items found in Trash"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:92
+msgid "Page Builder Support "
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:71
+#: includes/wpsisac-slider-custom-post.php:72
+msgid "Parent Category"
+msgstr ""
+
+#: includes/admin/settings/premium.php:104
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required!!"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:79
+msgid ""
+"Play with all shortcode parameters with preview panel. No documentation "
+"required."
+msgstr ""
+
+#: includes/admin/settings/premium.php:71
+#: includes/admin/settings/premium.php:72
+msgid "Premium"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:20
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:28
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:36
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:44
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:52
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:60
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:68
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:76
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:84
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:92
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:100
+msgid "PRO"
+msgstr ""
+
+#: templates/slider/design-2.php:25 templates/slider/design-3.php:24
+#: templates/slider/design-4.php:22 templates/slider/design-5.php:22
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-metabox.php:23
+msgid "Read More Link"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:33
+msgid "Remove slider image"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:69
+msgid "Search Category"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:28
+msgid "Search Slick Slider"
+msgstr ""
+
+#: includes/admin/settings/premium.php:169
+msgid "Set arrows designs"
+msgstr ""
+
+#: includes/admin/settings/premium.php:174
+msgid "Set dots designs"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:31
+#: includes/wpsisac-slider-custom-post.php:32
+msgid "Set slider image"
+msgstr ""
+
+#: includes/admin/settings/premium.php:104
+msgid "Shortcode Generator"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:76
+msgid "Shortcode Generator "
+msgstr ""
+
+#: includes/admin/settings/premium.php:99
+msgid "Shortcode Parameters"
+msgstr ""
+
+#: includes/admin/settings/premium.php:94
+msgid "Shortcode provide output to the front-end side"
+msgstr ""
+
+#: includes/admin/settings/premium.php:94
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/admin/settings/premium.php:144
+msgid "SiteOrigin Page Builder Support"
+msgstr ""
+
+#: includes/shortcodes/wpsisac-carousel.php:26
+#: includes/shortcodes/wpsisac-carousel.php:34
+msgid "Slick Carousel View"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:83
+msgid "Slick slider carousel Shortcode (design-6)"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:84
+msgid "Slick slider carousel with center mode Shortcode (design-6)"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:85
+msgid "Slick slider carousel with variable width Shortcode (design-6)"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:157
+msgid "Slick Slider Premium Features"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:82
+msgid "Slick slider Shortcode (design-1 to design-5)"
+msgstr ""
+
+#: includes/shortcodes/wpsisac-slider.php:26
+#: includes/shortcodes/wpsisac-slider.php:34
+msgid "Slick Slider View"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:77
+msgid "Slider Category"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:185
+msgid "Slider Category Shortcode"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:173
+msgid "Slider Center Mode Effect"
+msgstr ""
+
+#: includes/admin/settings/premium.php:199
+msgid "Slider parameters like autoplay, number of slide, sider dots and etc."
+msgstr ""
+
+#: includes/admin/settings/premium.php:204
+msgid "Slider RTL Support"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:174
+msgid "Slider RTL support"
+msgstr ""
+
+#: includes/admin/settings/premium.php:204
+msgid "Slider supports for RTL website"
+msgstr ""
+
+#: includes/admin/settings/premium.php:194
+msgid "Slides Order / Order By Parameters"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:55
+msgid "Solutions & Features"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:55
+msgid "Solutions & Features - WP Slick Slider and Image Carousel"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:71
+msgid "Step-1. Create a page like Slider OR add the shortcode in any page."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:57
+msgid "Step-1. Go to \"Slick Slider --> Add Slide tab\"."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:126
+msgid "Step-1. Go to the Gutenberg editor of your page."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:58
+msgid "Step-2. Add image title, description and images as a featured image"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:72
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:127
+msgid "Step-2. Search \"Slick Slider\" keyword in the Gutenberg block list."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:128
+msgid ""
+"Step-3. Add any block of slick slider and you will find its relative options "
+"on the right end side."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:59
+msgid "Step-3. Repeat this process for number of slides you want."
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:60
+msgid ""
+"Step-4. To display multiple slider, you can use category shortcode under "
+"\"Slick Slider--> Slider Category\""
+msgstr ""
+
+#: includes/admin/settings/premium.php:214
+msgid "Support"
+msgstr ""
+
+#: wp-slick-image-slider.php:196
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: includes/admin/settings/premium.php:119
+msgid "Thumbnail navigation support to some designs"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:55
+msgid "Thumbnail navigation support to some designs."
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:74
+msgid "Update Category"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:58
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:58
+msgid "Upgrade To PRO - WP Slick Slider and Image Carousel"
+msgstr ""
+
+#: includes/admin/settings/premium.php:139
+msgid "Use this plugin with Bevear Builder easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:149
+msgid "Use this plugin with Divi Builder easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:134
+msgid "Use this plugin with Elementor easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:154
+msgid "Use this plugin with Fusion(Avada) Builder easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:129
+msgid "Use this plugin with Gutenberg easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:144
+msgid "Use this plugin with SiteOrigin easily"
+msgstr ""
+
+#: includes/admin/settings/premium.php:159
+msgid "Use this plugin with WPBakery Page Builder easily"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:14
+#, php-format
+msgid ""
+"Utilize these <a href=\"%s\" target=\"_blank\">Premium Features</a> to get "
+"best of this plugin with Annual or Lifetime bundle deal.</b>"
+msgstr ""
+
+#: includes/wpsisac-slider-custom-post.php:27
+msgid "View Slick Slider"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/wpsisac-how-it-work.php:178
+#: includes/admin/settings/premium.php:15
+msgid "WP Slick Slider and Image Carousel"
+msgstr ""
+
+#: includes/admin/class-wpsisac-admin.php:127
+msgid "WP Slick Slider and Image Carousel - Settings"
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:171
+#: includes/admin/settings/premium.php:109
+msgid "WP Templating Features"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:68
+msgid "WP Templating Features "
+msgstr ""
+
+#: includes/admin/wpsisac-how-it-work.php:167
+#: includes/admin/settings/premium.php:159
+msgid "WPBakery Page Builder Supports"
+msgstr ""
+
+#: includes/admin/metabox/wpsisac-post-setting-metabox-pro.php:71
+#: includes/admin/settings/premium.php:109
+msgid "You can modify plugin html/designs in your current theme."
+msgstr ""
